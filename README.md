@@ -41,4 +41,7 @@ I Am Currently A Bs - It Student Of 5th Semester In Punjab University College Of
 ------------------
 #### Featured Repositories
 
-![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=myasirbabar&repo=studentrecord&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=myasirbabar&repo=travelform&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=myasirbabar&repo=solitaire-game&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+![Repo3](https://github-readme-stats.vercel.app/api/pin/?username=myasirbabar&repo=tik-tok-toe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+![Repo4](https://github-readme-stats.vercel.app/api/pin/?username=myasirbabar&repo=Desktop-App-Gpa&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
