@@ -1,8 +1,9 @@
 ### Hi I am [Muhammad Yasir](https://www.linkedin.com/in/myb1) 👋
 
-<marquee>An IT student, Problem Solver, Innovator, Quick Learner</marquee>
+<img src="https://raw.githubusercontent.com/myasirbabar/myasirbabar/main/marquee3.gif">
 
 ------------
+
 #### About Me
 I Am Currently A Bs - It Student Of 5th Semester In Punjab University College Of Information Technology (__PUCIT__). I Am Skilled In __Php Web Development__ And __Winform Applications__. Moreover I Am Proefficent In Programming Languages: C, C++, Java. 
 
