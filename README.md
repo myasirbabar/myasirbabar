@@ -5,7 +5,7 @@
 ------------
 
 #### About Me
-I Am Currently a BS - IT Student Of 5th Semester at Punjab University College Of Information Technology (__PUCIT__). I Am Skilled In __Php Web Development__ And __Winform Applications__. Moreover I Am Proefficent In Programming Languages: C, C++, Java. 
+I am currently BS - IT student of 5th Semester at Punjab University College Of Information Technology (__PUCIT__). I am skilled In __Php Web Development__ And __Winform Applications__. Moreover I am proefficent in programming languages: C, C++, Java. 
 
 <a href="https://www.linkedin.com/in/myb1">
   <img align="left"  width="22px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" />
