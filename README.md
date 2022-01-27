@@ -5,7 +5,7 @@
 ------------
 
 #### About Me
-I am currently BS - IT student of 5th Semester at Punjab University College Of Information Technology (__PUCIT__). I am skilled In __Php Web Development__ And __Winform Applications__. Moreover I am proefficent in programming languages: C, C++, Java. 
+I am currently BS - IT student of 5th Semester at Faculty of Computing and Information Technology (__FCIT__). I am skilled In __Web Development__ | __Winform Applications__ | __Artificial Intelligence__ And __Machine Learning__. Moreover I am proefficent in programming languages: C, C++, Java, Python. 
 
 <a href="https://www.linkedin.com/in/myb1">
   <img align="left"  width="22px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" />
@@ -33,6 +33,7 @@ I am currently BS - IT student of 5th Semester at Punjab University College Of I
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
+<code><img height="20" src="https://img.icons8.com/fluency/48/000000/python.png"></code>
 
 ------------
 
