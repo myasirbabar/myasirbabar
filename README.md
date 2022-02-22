@@ -5,7 +5,7 @@
 ------------
 
 #### About Me
-I am currently BS - IT student of 5th Semester at Faculty of Computing and Information Technology (__FCIT__). I am skilled In __Web Development__ | __Winform Applications__ | __Artificial Intelligence__ And __Machine Learning__. Moreover I am proefficent in programming languages: C, C++, Java, Python. 
+I am currently BS - IT student of 6th Semester at Faculty of Computing and Information Technology (__FCIT__). I am skilled In __Web Development__ | __Desktop Applications__ | __Artificial Intelligence__ And __Machine Learning__. Moreover I am proefficent in programming languages: C, C++, Java, Python, PhP 
 
 <a href="https://www.linkedin.com/in/myb1">
   <img align="left"  width="22px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" />
