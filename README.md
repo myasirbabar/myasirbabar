@@ -1,19 +1,19 @@
-### Hi I am [Muhammad Yasir](https://www.linkedin.com/in/myb1) 👋
+### Hi I am [Muhammad Yasir](https://yasirbabar.me) 👋
 
 <img src="https://raw.githubusercontent.com/myasirbabar/myasirbabar/main/marquee3.gif">
 
 ------------
 
 #### About Me
-I am currently BS - IT student of 6th Semester at Faculty of Computing and Information Technology (__FCIT__). I am skilled In __Web Development__ | __Desktop Applications__ | __Artificial Intelligence__ And __Machine Learning__. Moreover I am proefficent in programming languages: C, C++, Java, Python, PhP 
+I am currently BS - IT student of 7th Semester at Faculty of Computing and Information Technology (__FCIT__). I am skilled In __Web Development__ and I have interest in __Computer Vision__ And __Machine Learning__. Moreover I am proefficent in programming languages: JS, C, C++, Java, Python 
 
 <a href="https://www.linkedin.com/in/myb1">
   <img align="left"  width="22px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" />
 <a href="https://github.com/myasirbabar">
   <img align="left" width="22px" src="https://img.icons8.com/color-glass/48/000000/github.png" />
 </a>
-<a href="https://www.instagram.com/muhammadyasir_babar/">
-  <img align="left" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
+<a href="https://yasirbabar.me">
+  <img align="left" width="22px" src="https://img.icons8.com/fluency/48/000000/portfolio.png" />
 </a>
 <a href="https://www.facebook.com/muhammadyasir.babar/">
   <img align="left" width="22px" src="https://img.icons8.com/color/144/000000/facebook-new.png" />
@@ -27,13 +27,11 @@ I am currently BS - IT student of 6th Semester at Faculty of Computing and Infor
 ---------------
   **Technology Stack**
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://img.icons8.com/fluency/48/000000/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/c-programming.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
-<code><img height="20" src="https://img.icons8.com/fluency/48/000000/python.png"></code>
 
 ------------
 
