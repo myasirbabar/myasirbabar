@@ -1,11 +1,11 @@
-### Hi I am [Muhammad Yasir](https://yasirbabar.me) 👋
+### Hi I am Muhammad Yasir 👋
 
 <img src="https://raw.githubusercontent.com/myasirbabar/myasirbabar/main/marquee3.gif">
 
 ------------
 
 #### About Me
-I am currently BS - IT student of 7th Semester at Faculty of Computing and Information Technology (__FCIT__). I am skilled In __Web Development__ and I have interest in __Computer Vision__ And __Machine Learning__. Moreover I am proefficent in programming languages: JS, C, C++, Java, Python 
+I am a Software Engineer, skilled In __Full Stack Development__ and I have interest in __Computer Vision__ And __Machine Learning__. My Goal is to make __life easier through technology__ 
 
 <a href="https://www.linkedin.com/in/myb1">
   <img align="left"  width="22px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" />
