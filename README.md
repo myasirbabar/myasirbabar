@@ -5,16 +5,16 @@
 ------------
 
 #### About Me
-I am a Software Engineer, skilled In __Full Stack Development__ and I have interest in __Computer Vision__ And __Machine Learning__. My Goal is to make __life easier through technology__ 
+I am a Software Engineer, skilled In __Full Stack Development__ and I have interest in __Agentic AI__ And __Machine Learning__. My Goal is to make __life easier through technology__ 
 
 <a href="https://www.linkedin.com/in/myb1">
   <img align="left"  width="22px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" />
 <a href="https://github.com/myasirbabar">
   <img align="left" width="22px" src="https://img.icons8.com/color-glass/48/000000/github.png" />
 </a>
-<a href="https://yasirbabar.me">
+<!-- <a href="https://yasirbabar.me">
   <img align="left" width="22px" src="https://img.icons8.com/fluency/48/000000/portfolio.png" />
-</a>
+</a> -->
 <a href="https://www.facebook.com/muhammadyasir.babar/">
   <img align="left" width="22px" src="https://img.icons8.com/color/144/000000/facebook-new.png" />
 </a>
